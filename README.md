@@ -1,1 +1,8 @@
-# svdoko-use
+still under construction
+
+
+### Installation
+```
+npm install
+
+```

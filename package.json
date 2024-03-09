@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "pedistmv": "^1.0.0",
+    "silvodes": "^1.0.2"
+  },
+  "name": "svdoko-use",
+  "description": "still under construction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "silvahof",
+  "license": "ISC"
+}
